@@ -1,0 +1,41 @@
+.nav-item a {
+  color: white;
+  margin-right: 25px;
+  padding: 5px;
+  font-size: 15px;
+}
+
+body {
+ 
+  background-color: #7a7f99;
+}
+h1{
+text-align: center;
+
+
+background-color: #a45555;
+color: white;
+font-size: 49px;
+padding: 11px;
+width: 509px;
+margin: 50px auto;
+border-radius: 5px;
+}
+h3 {
+  color: green;
+  background-color: #5e1522;
+  padding: 10px;
+}
+
+.box {
+  
+  background-color: #ea8496;
+}
+.table.table-bordered.text-center {
+  color: red;
+.box1{
+  
+  background-color: #ea8496;
+}
+
+
